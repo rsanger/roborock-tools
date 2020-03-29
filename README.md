@@ -2,7 +2,7 @@
 Tools for working with a rooted Roborock S5
 
 
-### editmap.py
+### edit_map.py
 
 At tool to open, edit and convert raw Roborock LIDAR maps.
 
