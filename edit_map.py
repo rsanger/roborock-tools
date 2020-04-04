@@ -168,7 +168,7 @@ class RoborockMap:
 
             return: None. But, self.checksum will be updated
         """
-        self.checksum = self.calc_map_checksum
+        self.checksum = self.calc_map_checksum()
 
     def to_file(self, f):
         """ Write back to a file in the Roborock format
